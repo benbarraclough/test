@@ -9,5 +9,5 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/home"
+baseurl: "/home/test"
 highlighter: rouge
